@@ -19,17 +19,19 @@ h2 {
 .An {
   background-color: #a4c93b;
   font-size: 20px;
+  border-radius: 5px;
   border: none;
-  padding: 5px 25px 5px 25px;
-  border-radius: 2px;
+  border-style: outset;
+  padding: 4px 25px 2px 25px;
 }
 
 .Ap {
   background-color: #b6bcca;
   font-size: 20px;
   border: none;
-  padding: 5px 25px 5px 25px;
-  border-radius: 2px;
+  padding: 4px 25px 2px 25px;
+  border-radius: 5px;
+  border-style: outset;
 }
 
 .ex {
