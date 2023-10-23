@@ -10,6 +10,7 @@ body {
   padding-bottom: 50px;
   font-family: "Open Sans", sans-serif;
   font-size: 15.3px;
+  margin-bottom: 30px;
 }
 
 h2 {
@@ -20,18 +21,18 @@ h2 {
   background-color: #a4c93b;
   font-size: 20px;
   border-radius: 5px;
+  border: none;
   border-style: outset;
   padding: 4px 25px 4px 25px;
-  border: none;
 }
 
 .Ap {
   background-color: #b6bcca;
   font-size: 20px;
+  border: none;
   padding: 4px 25px 4px 25px;
   border-radius: 5px;
   border-style: outset;
-  border: none;
 }
 
 .ex {
